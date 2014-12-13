@@ -1,4 +1,4 @@
 philway.github.com
 ==================
 
-oj practise.
+This is a blog for oj;
