@@ -1,4 +1,0 @@
-philway.github.com
-==================
-
-blog
