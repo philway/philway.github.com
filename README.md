@@ -1,4 +1,4 @@
 philway.github.com
 ==================
 
-This is a blog for oj;
+This is a blog for oj
