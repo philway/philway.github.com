@@ -2,9 +2,9 @@
 title: Philway's blog
 email: lvsummer.fly@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
-    oj practice-To solve out all of oj'problems.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+    oj practice-To solve all of oj'problems.
+baseurl: "http://philway.me" # the subpath of your site, e.g. /blog/
+url: "http://philway.me" # the base hostname & protocol for your site
 twitter_username: philway 
 github_username: philway 
 
